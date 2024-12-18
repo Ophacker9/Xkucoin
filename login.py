@@ -1,9 +1,9 @@
 import requests
 import urllib.parse
-import headers
 
 from smart_airdrop_claimer import base
 
+import headers
 
 def parse_and_decode_params(data):
     # Parse the query string into a dictionary
