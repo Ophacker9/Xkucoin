@@ -5,7 +5,6 @@ import time
 from smart_airdrop_claimer import base
 
 import headers
-import get_info
 
 def try_tap(cookie, molecule, proxies=None):
     url = "https://www.kucoin.com/_api/xkucoin/platform-telebot/game/gold/increase?lang=en_US"
