@@ -5,7 +5,7 @@ sys.dont_write_bytecode = True
 from smart_airdrop_claimer import base
 
 import time
-import get_info
+import info
 import process_tap
 
 class xKuCoin:
