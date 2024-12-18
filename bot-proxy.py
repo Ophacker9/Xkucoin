@@ -6,8 +6,6 @@ from smart_airdrop_claimer import base
 
 import time
 import json
-import get_cookie
-import get_info
 import process_tap
 
 class xKuCoin:
