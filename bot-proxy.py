@@ -4,6 +4,7 @@ sys.dont_write_bytecode = True
 
 from smart_airdrop_claimer import base
 
+import info
 import time
 import json
 import process_tap
