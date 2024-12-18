@@ -1,8 +1,8 @@
 import requests
 import urllib.parse
+import headers
 
 from smart_airdrop_claimer import base
-from core.headers import headers
 
 
 def parse_and_decode_params(data):
