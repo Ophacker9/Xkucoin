@@ -3,12 +3,11 @@ import sys
 sys.dont_write_bytecode = True
 
 from smart_airdrop_claimer import base
-from core.login import get_cookie
-from core.info import get_info
-from core.tap import process_tap
 
 import time
-
+import get_cookie
+import get_info
+import process_tap
 
 class xKuCoin:
     def __init__(self):
