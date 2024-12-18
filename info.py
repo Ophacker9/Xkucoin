@@ -2,6 +2,8 @@ import requests
 
 from smart_airdrop_claimer import base
 
+import headers
+
 def get_info(cookie, proxies=None):
     url = "https://www.kucoin.com/_api/xkucoin/platform-telebot/game/summary?lang=en_US"
 
