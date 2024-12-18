@@ -6,7 +6,6 @@ from smart_airdrop_claimer import base
 
 import time
 import info
-import process_tap
 
 class xKuCoin:
     def __init__(self):
