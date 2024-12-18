@@ -4,7 +4,6 @@ import time
 
 from smart_airdrop_claimer import base
 from core.headers import headers
-from core.info import get_info
 
 
 def try_tap(cookie, molecule, proxies=None):
